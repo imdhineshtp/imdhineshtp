@@ -1,6 +1,6 @@
 ## Hey there! 👋 I'm Dhinesh TP
 
-### Full Stack Developer | Python 🐍 | React ⚛️ | Django 🎸 | AWS ☁️
+### Full Stack Developer | Python 🐍 | React ⚛️ | Django 🎸 | AWS ☁️ Heroku
 
 Welcome to my GitHub world! I'm Dhinesh TP, a seasoned Full Stack Developer with a passion for crafting robust web and desktop applications. With 3 years of hands-on experience, I'm skilled in Python, React, Django, and AWS.
 
